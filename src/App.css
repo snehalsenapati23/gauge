@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: Plus Jakarta Sans,sans-serif;;
+}
+
+.hero{
+    background-color: #1c1c3a;
+
+}
+.head4{
+    color: rgb(31 41 55/var(--tw-text-opacity));
+}
+
+/* @media (max-width:480px){
+    .left-2{
+        
+justify-content: center; 
+margin-left: 60px;
+margin-top: 380px; 
+text-align: center;
+
+
+
+}
+.right-2{
+  position: absolute;
+    margin-top: 10%;
+    top: 130%;
+    margin-right: 200px;
+    width: 100%;
+
+}
+} */
